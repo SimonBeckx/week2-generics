@@ -7,7 +7,6 @@ public class Goochelshow {
 			System.out.println("Goocheltruc " + (i+1));
 			goochelaar.verstopDier();
 			goochelaar.kijkInHoed();
-			goochelaar.kijkInHoed();
 		}
 	}
 }
